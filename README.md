@@ -21,8 +21,10 @@ Code and data to produce figures and replicate web-crawling and classifier train
   - Collecting links to listings in 37 countries
   - Scraping content of listings
 
-- Analaysis (Python)
-
-
+- Analysis (Python)
+  - Unsupervised learning
+  - Grid search of applicable pre-processing
+  - Application of ML algorithms
+  
 - Visualization (R)
 
