@@ -25,7 +25,7 @@ Code and data to produce figures and replicate web-crawling and classifier train
 - Analysis (Python)
   - Unsupervised learning
   - Grid search of applicable pre-processing
-  - Application of ML algorithms
+  - Training & Application of ML algorithms
   
 - Visualization (R)
 
