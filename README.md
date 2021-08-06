@@ -36,7 +36,7 @@ __Please cite as__: _Hoffmann et al. (2021) Measuring Sustainable Tourism with O
   
 - Visualization (R)
 
-  - __NOTES__:
+  __NOTES__:
   - Fig 1 & Fig 2 require the same data set (Fig1_data.csv)
   - Table (Fig 2B) and confusion matrices (Fig 3B) not included
   - Fig 3C requires shapefiles provided in Shapefiles.zip
