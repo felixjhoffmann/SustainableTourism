@@ -35,7 +35,10 @@ __Please cite as__: _Hoffmann et al. (2021) Measuring Sustainable Tourism with O
   - Training & Application of ML algorithms (TO BE ADDED)
   
 - Visualization (R)
-
+  - Fig1.R (descriptive statistics)
+  - Fig2.R (unsupervisead learning: PCA and clustering)
+  - Fig3AB.R (ML performance and comparison to random draw)
+  - Fig3C.R (Europe map)
   __NOTES__:
   - Fig 1 & Fig 2 require the same data set (Fig1_data.csv)
   - Table (Fig 2B) and confusion matrices (Fig 3B) not included
