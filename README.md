@@ -3,7 +3,7 @@
 Code and data to produce figures and replicate web-crawling and classifier training for the paper 'Measuring Sustainable Tourism with Online Platform Data'. 
 (_Link to paper to be added_)
 
-Please cite as: Hoffmann et al. (2021) Measuring Sustainable Tourism with Online Platform Data. Preprint.
+Please cite as: _Hoffmann et al. (2021) Measuring Sustainable Tourism with Online Platform Data. Preprint._
 
 ### Description
 
