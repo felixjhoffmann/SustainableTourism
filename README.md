@@ -22,18 +22,21 @@ __Please cite as__: _Hoffmann et al. (2021) Measuring Sustainable Tourism with O
   - Fig3A_data.csv (ML performance data)
   - Fig3B_inset_data.csv (Random draw data)
   - Fig3C_data.csv (geocoded accommodations)
+  - Final_Training_Data.csv (data to train ML models)
   - Shapefiles.zip (shapefiles for map in Fig 3C)
 
 - Crawling (Python)
-  - Collecting links to listings in 37 countries
-  - Scraping content of listings
+  - Collecting links to listings in 37 countries (TO BE ADDED)
+  - Scraping content of listings (TO BE ADDED)
 
 - Analysis (Python)
-  - Unsupervised learning
-  - Grid search of applicable pre-processing
-  - Training & Application of ML algorithms
+  - Unsupervised learning (TO BE ADDED)
+  - Grid search of applicable pre-processing (TO BE ADDED)
+  - Training & Application of ML algorithms (TO BE ADDED)
   
 - Visualization (R)
+
+  - __NOTES__:
   - Fig 1 & Fig 2 require the same data set (Fig1_data.csv)
   - Table (Fig 2B) and confusion matrices (Fig 3B) not included
   - Fig 3C requires shapefiles provided in Shapefiles.zip
