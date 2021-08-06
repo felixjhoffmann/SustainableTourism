@@ -1,0 +1,361 @@
+﻿Pipeline,Classifier,Recall,F2,ROC AUC
+None_None_None,Logistic Regression,0.04,0.048,0.798
+Yeo_Johnson_None_None,Logistic Regression,0.108,0.128,0.876
+Box_Cox_None_None,Logistic Regression,0.106,0.126,0.875
+MinMax_None_None,Logistic Regression,0.097,0.115,0.858
+Standardize_None_None,Logistic Regression,0.1,0.118,0.858
+Robust_Scaler_None_None,Logistic Regression,0.095,0.112,0.852
+None_Rand_Over_None,Logistic Regression,0.706,0.372,0.838
+Yeo_Johnson_Rand_Over_None,Logistic Regression,0.795,0.399,0.878
+Box_Cox_Rand_Over_None,Logistic Regression,0.8,0.401,0.878
+MinMax_Rand_Over_None,Logistic Regression,0.761,0.387,0.865
+Standardize_Rand_Over_None,Logistic Regression,0.76,0.391,0.866
+Robust_Scaler_Rand_Over_None,Logistic Regression,0.764,0.386,0.865
+None_Rand_Under_None,Logistic Regression,0.708,0.372,0.837
+Yeo_Johnson_Rand_Under_None,Logistic Regression,0.802,0.391,0.875
+Box_Cox_Rand_Under_None,Logistic Regression,0.802,0.394,0.876
+MinMax_Rand_Under_None,Logistic Regression,0.766,0.371,0.859
+Standardize_Rand_Under_None,Logistic Regression,0.767,0.383,0.862
+Robust_Scaler_Rand_Under_None,Logistic Regression,0.773,0.379,0.861
+None_SMOTE_None,Logistic Regression,0.635,0.347,0.807
+Yeo_Johnson_SMOTE_None,Logistic Regression,0.779,0.395,0.874
+Box_Cox_SMOTE_None,Logistic Regression,0.783,0.398,0.874
+MinMax_SMOTE_None,Logistic Regression,0.733,0.386,0.861
+Standardize_SMOTE_None,Logistic Regression,0.741,0.383,0.86
+Robust_Scaler_SMOTE_None,Logistic Regression,0.742,0.383,0.861
+None_SMOTE_Under_None,Logistic Regression,0.654,0.351,0.809
+Yeo_Johnson_SMOTE_Under_None,Logistic Regression,0.776,0.393,0.874
+Box_Cox_SMOTE_Under_None,Logistic Regression,0.784,0.399,0.874
+MinMax_SMOTE_Under_None,Logistic Regression,0.734,0.387,0.861
+Standardize_SMOTE_Under_None,Logistic Regression,0.738,0.381,0.86
+Robust_Scaler_SMOTE_Under_None,Logistic Regression,0.748,0.383,0.861
+None_PCA4_None,Logistic Regression,0.029,0.035,0.823
+Yeo_Johnson_PCA4_None,Logistic Regression,0,0.001,0.807
+Box_Cox_PCA4_None,Logistic Regression,0,0.001,0.81
+MinMax_PCA4_None,Logistic Regression,0,0,0.784
+Standardize_PCA4_None,Logistic Regression,0.014,0.018,0.801
+Robust_Scaler_PCA4_None,Logistic Regression,0.024,0.029,0.801
+None_PCA4_Rand_Over,Logistic Regression,0.673,0.36,0.834
+Yeo_Johnson_PCA4_Rand_Over,Logistic Regression,0.744,0.308,0.808
+Box_Cox_PCA4_Rand_Over,Logistic Regression,0.736,0.312,0.811
+MinMax_PCA4_Rand_Over,Logistic Regression,0.713,0.287,0.784
+Standardize_PCA4_Rand_Over,Logistic Regression,0.704,0.315,0.805
+Robust_Scaler_PCA4_Rand_Over,Logistic Regression,0.608,0.318,0.805
+None_PCA4_Rand_Under,Logistic Regression,0.677,0.36,0.834
+Yeo_Johnson_PCA4_Rand_Under,Logistic Regression,0.745,0.307,0.808
+Box_Cox_PCA4_Rand_Under,Logistic Regression,0.737,0.312,0.811
+MinMax_PCA4_Rand_Under,Logistic Regression,0.717,0.288,0.783
+Standardize_PCA4_Rand_Under,Logistic Regression,0.706,0.316,0.805
+Robust_Scaler_PCA4_Rand_Under,Logistic Regression,0.607,0.316,0.804
+None_PCA4_SMOTE,Logistic Regression,0.674,0.359,0.833
+Yeo_Johnson_PCA4_SMOTE,Logistic Regression,0.744,0.308,0.808
+Box_Cox_PCA4_SMOTE,Logistic Regression,0.735,0.311,0.811
+MinMax_PCA4_SMOTE,Logistic Regression,0.715,0.288,0.784
+Standardize_PCA4_SMOTE,Logistic Regression,0.708,0.315,0.805
+Robust_Scaler_PCA4_SMOTE,Logistic Regression,0.607,0.317,0.805
+None_PCA4_SMOTE_Under,Logistic Regression,0.675,0.359,0.833
+Yeo_Johnson_PCA4_SMOTE_Under,Logistic Regression,0.743,0.308,0.808
+Box_Cox_PCA4_SMOTE_Under,Logistic Regression,0.735,0.312,0.811
+MinMax_PCA4_SMOTE_Under,Logistic Regression,0.716,0.289,0.784
+Standardize_PCA4_SMOTE_Under,Logistic Regression,0.706,0.315,0.805
+Robust_Scaler_PCA4_SMOTE_Under,Logistic Regression,0.607,0.317,0.805
+None_PCA8_None,Logistic Regression,0.025,0.031,0.817
+Yeo_Johnson_PCA8_None,Logistic Regression,0.007,0.009,0.836
+Box_Cox_PCA8_None,Logistic Regression,0.006,0.007,0.839
+MinMax_PCA8_None,Logistic Regression,0,0,0.792
+Standardize_PCA8_None,Logistic Regression,0.031,0.038,0.83
+Robust_Scaler_PCA8_None,Logistic Regression,0.035,0.043,0.824
+None_PCA8_Rand_Over,Logistic Regression,0.681,0.359,0.834
+Yeo_Johnson_PCA8_Rand_Over,Logistic Regression,0.768,0.335,0.837
+Box_Cox_PCA8_Rand_Over,Logistic Regression,0.768,0.342,0.839
+MinMax_PCA8_Rand_Over,Logistic Regression,0.747,0.289,0.792
+Standardize_PCA8_Rand_Over,Logistic Regression,0.731,0.351,0.838
+Robust_Scaler_PCA8_Rand_Over,Logistic Regression,0.646,0.354,0.83
+None_PCA8_Rand_Under,Logistic Regression,0.686,0.359,0.834
+Yeo_Johnson_PCA8_Rand_Under,Logistic Regression,0.768,0.335,0.837
+Box_Cox_PCA8_Rand_Under,Logistic Regression,0.766,0.342,0.839
+MinMax_PCA8_Rand_Under,Logistic Regression,0.747,0.29,0.792
+Standardize_PCA8_Rand_Under,Logistic Regression,0.726,0.349,0.837
+Robust_Scaler_PCA8_Rand_Under,Logistic Regression,0.644,0.353,0.829
+None_PCA8_SMOTE,Logistic Regression,0.685,0.358,0.831
+Yeo_Johnson_PCA8_SMOTE,Logistic Regression,0.763,0.335,0.836
+Box_Cox_PCA8_SMOTE,Logistic Regression,0.763,0.342,0.839
+MinMax_PCA8_SMOTE,Logistic Regression,0.747,0.29,0.792
+Standardize_PCA8_SMOTE,Logistic Regression,0.728,0.348,0.837
+Robust_Scaler_PCA8_SMOTE,Logistic Regression,0.652,0.357,0.827
+None_PCA8_SMOTE_Under,Logistic Regression,0.684,0.358,0.831
+Yeo_Johnson_PCA8_SMOTE_Under,Logistic Regression,0.763,0.335,0.836
+Box_Cox_PCA8_SMOTE_Under,Logistic Regression,0.763,0.342,0.839
+MinMax_PCA8_SMOTE_Under,Logistic Regression,0.747,0.29,0.792
+Standardize_PCA8_SMOTE_Under,Logistic Regression,0.728,0.349,0.837
+Robust_Scaler_PCA8_SMOTE_Under,Logistic Regression,0.652,0.357,0.827
+None_None_None,LDA,0.329,0.331,0.851
+Yeo_Johnson_None_None,LDA,0.287,0.299,0.857
+Box_Cox_None_None,LDA,0.288,0.3,0.862
+MinMax_None_None,LDA,0.329,0.331,0.851
+Standardize_None_None,LDA,0.329,0.331,0.851
+Robust_Scaler_None_None,LDA,0.329,0.331,0.851
+None_Rand_Over_None,LDA,0.771,0.382,0.861
+Yeo_Johnson_Rand_Over_None,LDA,0.802,0.397,0.877
+Box_Cox_Rand_Over_None,LDA,0.797,0.396,0.877
+MinMax_Rand_Over_None,LDA,0.77,0.381,0.86
+Standardize_Rand_Over_None,LDA,0.768,0.381,0.86
+Robust_Scaler_Rand_Over_None,LDA,0.77,0.381,0.86
+None_Rand_Under_None,LDA,0.772,0.37,0.857
+Yeo_Johnson_Rand_Under_None,LDA,0.806,0.387,0.875
+Box_Cox_Rand_Under_None,LDA,0.794,0.391,0.875
+MinMax_Rand_Under_None,LDA,0.77,0.37,0.856
+Standardize_Rand_Under_None,LDA,0.771,0.375,0.859
+Robust_Scaler_Rand_Under_None,LDA,0.767,0.372,0.857
+None_SMOTE_None,LDA,0.025,0.031,0.739
+Yeo_Johnson_SMOTE_None,LDA,0.786,0.389,0.873
+Box_Cox_SMOTE_None,LDA,0.791,0.395,0.873
+MinMax_SMOTE_None,LDA,0.741,0.381,0.858
+Standardize_SMOTE_None,LDA,0.752,0.372,0.856
+Robust_Scaler_SMOTE_None,LDA,0.752,0.38,0.858
+None_SMOTE_Under_None,LDA,0.025,0.031,0.74
+Yeo_Johnson_SMOTE_Under_None,LDA,0.787,0.39,0.873
+Box_Cox_SMOTE_Under_None,LDA,0.791,0.395,0.872
+MinMax_SMOTE_Under_None,LDA,0.741,0.38,0.858
+Standardize_SMOTE_Under_None,LDA,0.755,0.373,0.855
+Robust_Scaler_SMOTE_Under_None,LDA,0.752,0.38,0.858
+None_PCA4_None,LDA,0.157,0.17,0.837
+Yeo_Johnson_PCA4_None,LDA,0.001,0.001,0.807
+Box_Cox_PCA4_None,LDA,0.001,0.001,0.809
+MinMax_PCA4_None,LDA,0.001,0.001,0.778
+Standardize_PCA4_None,LDA,0.108,0.121,0.807
+Robust_Scaler_PCA4_None,LDA,0.118,0.13,0.804
+None_PCA4_Rand_Over,LDA,0.651,0.334,0.812
+Yeo_Johnson_PCA4_Rand_Over,LDA,0.747,0.307,0.808
+Box_Cox_PCA4_Rand_Over,LDA,0.733,0.312,0.811
+MinMax_PCA4_Rand_Over,LDA,0.71,0.289,0.784
+Standardize_PCA4_Rand_Over,LDA,0.703,0.31,0.8
+Robust_Scaler_PCA4_Rand_Over,LDA,0.539,0.314,0.802
+None_PCA4_Rand_Under,LDA,0.65,0.333,0.811
+Yeo_Johnson_PCA4_Rand_Under,LDA,0.746,0.306,0.808
+Box_Cox_PCA4_Rand_Under,LDA,0.733,0.312,0.811
+MinMax_PCA4_Rand_Under,LDA,0.71,0.289,0.784
+Standardize_PCA4_Rand_Under,LDA,0.705,0.312,0.801
+Robust_Scaler_PCA4_Rand_Under,LDA,0.537,0.313,0.803
+None_PCA4_SMOTE,LDA,0.653,0.333,0.812
+Yeo_Johnson_PCA4_SMOTE,LDA,0.749,0.307,0.808
+Box_Cox_PCA4_SMOTE,LDA,0.734,0.312,0.811
+MinMax_PCA4_SMOTE,LDA,0.708,0.288,0.784
+Standardize_PCA4_SMOTE,LDA,0.705,0.31,0.801
+Robust_Scaler_PCA4_SMOTE,LDA,0.54,0.313,0.802
+None_PCA4_SMOTE_Under,LDA,0.653,0.333,0.812
+Yeo_Johnson_PCA4_SMOTE_Under,LDA,0.747,0.307,0.808
+Box_Cox_PCA4_SMOTE_Under,LDA,0.734,0.312,0.811
+MinMax_PCA4_SMOTE_Under,LDA,0.71,0.289,0.784
+Standardize_PCA4_SMOTE_Under,LDA,0.706,0.31,0.8
+Robust_Scaler_PCA4_SMOTE_Under,LDA,0.54,0.313,0.802
+None_PCA8_None,LDA,0.154,0.167,0.837
+Yeo_Johnson_PCA8_None,LDA,0.091,0.106,0.824
+Box_Cox_PCA8_None,LDA,0.126,0.144,0.829
+MinMax_PCA8_None,LDA,0,0,0.78
+Standardize_PCA8_None,LDA,0.19,0.203,0.829
+Robust_Scaler_PCA8_None,LDA,0.159,0.171,0.827
+None_PCA8_Rand_Over,LDA,0.668,0.33,0.81
+Yeo_Johnson_PCA8_Rand_Over,LDA,0.771,0.335,0.837
+Box_Cox_PCA8_Rand_Over,LDA,0.767,0.342,0.839
+MinMax_PCA8_Rand_Over,LDA,0.747,0.288,0.792
+Standardize_PCA8_Rand_Over,LDA,0.708,0.339,0.83
+Robust_Scaler_PCA8_Rand_Over,LDA,0.556,0.345,0.828
+None_PCA8_Rand_Under,LDA,0.667,0.328,0.809
+Yeo_Johnson_PCA8_Rand_Under,LDA,0.769,0.333,0.837
+Box_Cox_PCA8_Rand_Under,LDA,0.768,0.344,0.839
+MinMax_PCA8_Rand_Under,LDA,0.746,0.288,0.792
+Standardize_PCA8_Rand_Under,LDA,0.708,0.339,0.83
+Robust_Scaler_PCA8_Rand_Under,LDA,0.557,0.345,0.829
+None_PCA8_SMOTE,LDA,0.668,0.329,0.81
+Yeo_Johnson_PCA8_SMOTE,LDA,0.77,0.336,0.837
+Box_Cox_PCA8_SMOTE,LDA,0.765,0.342,0.839
+MinMax_PCA8_SMOTE,LDA,0.75,0.29,0.792
+Standardize_PCA8_SMOTE,LDA,0.706,0.341,0.83
+Robust_Scaler_PCA8_SMOTE,LDA,0.566,0.349,0.825
+None_PCA8_SMOTE_Under,LDA,0.669,0.329,0.81
+Yeo_Johnson_PCA8_SMOTE_Under,LDA,0.768,0.334,0.837
+Box_Cox_PCA8_SMOTE_Under,LDA,0.765,0.343,0.839
+MinMax_PCA8_SMOTE_Under,LDA,0.75,0.289,0.792
+Standardize_PCA8_SMOTE_Under,LDA,0.708,0.341,0.83
+Robust_Scaler_PCA8_SMOTE_Under,LDA,0.567,0.35,0.825
+None_None_None,QDA,0.568,0.356,0.82
+Yeo_Johnson_None_None,QDA,0.715,0.367,0.852
+Box_Cox_None_None,QDA,0.722,0.376,0.857
+MinMax_None_None,QDA,0.661,0.376,0.846
+Standardize_None_None,QDA,0.662,0.374,0.846
+Robust_Scaler_None_None,QDA,0.657,0.377,0.844
+None_Rand_Over_None,QDA,0.615,0.347,0.822
+Yeo_Johnson_Rand_Over_None,QDA,0.777,0.353,0.852
+Box_Cox_Rand_Over_None,QDA,0.778,0.36,0.857
+MinMax_Rand_Over_None,QDA,0.71,0.368,0.846
+Standardize_Rand_Over_None,QDA,0.711,0.366,0.845
+Robust_Scaler_Rand_Over_None,QDA,0.691,0.369,0.835
+None_Rand_Under_None,QDA,0.867,0.214,0.715
+Yeo_Johnson_Rand_Under_None,QDA,0.456,0.317,0.846
+Box_Cox_Rand_Under_None,QDA,0.373,0.285,0.852
+MinMax_Rand_Under_None,QDA,0.515,0.316,0.839
+Standardize_Rand_Under_None,QDA,0.533,0.355,0.84
+Robust_Scaler_Rand_Under_None,QDA,0.578,0.32,0.813
+None_SMOTE_None,QDA,0.415,0.324,0.697
+Yeo_Johnson_SMOTE_None,QDA,0.703,0.394,0.85
+Box_Cox_SMOTE_None,QDA,0.698,0.4,0.854
+MinMax_SMOTE_None,QDA,0.708,0.401,0.845
+Standardize_SMOTE_None,QDA,0.699,0.399,0.845
+Robust_Scaler_SMOTE_None,QDA,0.68,0.401,0.835
+None_SMOTE_Under_None,QDA,0.412,0.32,0.697
+Yeo_Johnson_SMOTE_Under_None,QDA,0.705,0.394,0.85
+Box_Cox_SMOTE_Under_None,QDA,0.7,0.403,0.853
+MinMax_SMOTE_Under_None,QDA,0.707,0.398,0.846
+Standardize_SMOTE_Under_None,QDA,0.699,0.4,0.846
+Robust_Scaler_SMOTE_Under_None,QDA,0.679,0.404,0.834
+None_PCA4_None,QDA,0.243,0.228,0.814
+Yeo_Johnson_PCA4_None,QDA,0.025,0.03,0.804
+Box_Cox_PCA4_None,QDA,0.022,0.027,0.807
+MinMax_PCA4_None,QDA,0.094,0.107,0.784
+Standardize_PCA4_None,QDA,0.155,0.162,0.788
+Robust_Scaler_PCA4_None,QDA,0.163,0.159,0.769
+None_PCA4_Rand_Over,QDA,0.445,0.32,0.814
+Yeo_Johnson_PCA4_Rand_Over,QDA,0.753,0.301,0.804
+Box_Cox_PCA4_Rand_Over,QDA,0.739,0.311,0.807
+MinMax_PCA4_Rand_Over,QDA,0.762,0.276,0.785
+Standardize_PCA4_Rand_Over,QDA,0.614,0.311,0.788
+Robust_Scaler_PCA4_Rand_Over,QDA,0.3,0.243,0.768
+None_PCA4_Rand_Under,QDA,0.447,0.321,0.814
+Yeo_Johnson_PCA4_Rand_Under,QDA,0.757,0.302,0.804
+Box_Cox_PCA4_Rand_Under,QDA,0.742,0.311,0.807
+MinMax_PCA4_Rand_Under,QDA,0.756,0.275,0.785
+Standardize_PCA4_Rand_Under,QDA,0.611,0.309,0.788
+Robust_Scaler_PCA4_Rand_Under,QDA,0.303,0.242,0.77
+None_PCA4_SMOTE,QDA,0.458,0.332,0.816
+Yeo_Johnson_PCA4_SMOTE,QDA,0.75,0.3,0.804
+Box_Cox_PCA4_SMOTE,QDA,0.735,0.31,0.807
+MinMax_PCA4_SMOTE,QDA,0.765,0.277,0.784
+Standardize_PCA4_SMOTE,QDA,0.622,0.311,0.79
+Robust_Scaler_PCA4_SMOTE,QDA,0.309,0.247,0.776
+None_PCA4_SMOTE_Under,QDA,0.457,0.331,0.816
+Yeo_Johnson_PCA4_SMOTE_Under,QDA,0.751,0.3,0.804
+Box_Cox_PCA4_SMOTE_Under,QDA,0.734,0.31,0.807
+MinMax_PCA4_SMOTE_Under,QDA,0.762,0.275,0.784
+Standardize_PCA4_SMOTE_Under,QDA,0.624,0.312,0.79
+Robust_Scaler_PCA4_SMOTE_Under,QDA,0.308,0.246,0.776
+None_PCA8_None,QDA,0.28,0.249,0.809
+Yeo_Johnson_PCA8_None,QDA,0.286,0.263,0.828
+Box_Cox_PCA8_None,QDA,0.301,0.274,0.831
+MinMax_PCA8_None,QDA,0.171,0.175,0.801
+Standardize_PCA8_None,QDA,0.311,0.273,0.813
+Robust_Scaler_PCA8_None,QDA,0.215,0.198,0.774
+None_PCA8_Rand_Over,QDA,0.459,0.315,0.809
+Yeo_Johnson_PCA8_Rand_Over,QDA,0.814,0.311,0.828
+Box_Cox_PCA8_Rand_Over,QDA,0.805,0.321,0.831
+MinMax_PCA8_Rand_Over,QDA,0.823,0.275,0.8
+Standardize_PCA8_Rand_Over,QDA,0.703,0.335,0.813
+Robust_Scaler_PCA8_Rand_Over,QDA,0.338,0.261,0.774
+None_PCA8_Rand_Under,QDA,0.47,0.314,0.805
+Yeo_Johnson_PCA8_Rand_Under,QDA,0.819,0.312,0.828
+Box_Cox_PCA8_Rand_Under,QDA,0.807,0.319,0.83
+MinMax_PCA8_Rand_Under,QDA,0.822,0.275,0.799
+Standardize_PCA8_Rand_Under,QDA,0.7,0.332,0.81
+Robust_Scaler_PCA8_Rand_Under,QDA,0.342,0.258,0.769
+None_PCA8_SMOTE,QDA,0.506,0.337,0.8
+Yeo_Johnson_PCA8_SMOTE,QDA,0.804,0.313,0.829
+Box_Cox_PCA8_SMOTE,QDA,0.797,0.324,0.832
+MinMax_PCA8_SMOTE,QDA,0.809,0.277,0.801
+Standardize_PCA8_SMOTE,QDA,0.713,0.332,0.814
+Robust_Scaler_PCA8_SMOTE,QDA,0.354,0.274,0.77
+None_PCA8_SMOTE_Under,QDA,0.501,0.335,0.8
+Yeo_Johnson_PCA8_SMOTE_Under,QDA,0.806,0.313,0.829
+Box_Cox_PCA8_SMOTE_Under,QDA,0.797,0.324,0.832
+MinMax_PCA8_SMOTE_Under,QDA,0.81,0.277,0.801
+Standardize_PCA8_SMOTE_Under,QDA,0.712,0.331,0.814
+Robust_Scaler_PCA8_SMOTE_Under,QDA,0.353,0.273,0.77
+None_None_None,Random Forest,0.066,0.08,0.877
+Yeo_Johnson_None_None,Random Forest,0.065,0.079,0.877
+Box_Cox_None_None,Random Forest,0.063,0.077,0.876
+MinMax_None_None,Random Forest,0.061,0.074,0.877
+Standardize_None_None,Random Forest,0.062,0.076,0.879
+Robust_Scaler_None_None,Random Forest,0.061,0.074,0.876
+None_Rand_Over_None,Random Forest,0.15,0.176,0.88
+Yeo_Johnson_Rand_Over_None,Random Forest,0.144,0.17,0.88
+Box_Cox_Rand_Over_None,Random Forest,0.14,0.165,0.879
+MinMax_Rand_Over_None,Random Forest,0.147,0.173,0.883
+Standardize_Rand_Over_None,Random Forest,0.143,0.168,0.881
+Robust_Scaler_Rand_Over_None,Random Forest,0.148,0.174,0.882
+None_Rand_Under_None,Random Forest,0.803,0.395,0.881
+Yeo_Johnson_Rand_Under_None,Random Forest,0.798,0.392,0.88
+Box_Cox_Rand_Under_None,Random Forest,0.797,0.397,0.883
+MinMax_Rand_Under_None,Random Forest,0.801,0.397,0.883
+Standardize_Rand_Under_None,Random Forest,0.796,0.394,0.882
+Robust_Scaler_Rand_Under_None,Random Forest,0.8,0.396,0.882
+None_SMOTE_None,Random Forest,0.222,0.247,0.875
+Yeo_Johnson_SMOTE_None,Random Forest,0.231,0.26,0.886
+Box_Cox_SMOTE_None,Random Forest,0.216,0.245,0.886
+MinMax_SMOTE_None,Random Forest,0.256,0.283,0.887
+Standardize_SMOTE_None,Random Forest,0.22,0.249,0.886
+Robust_Scaler_SMOTE_None,Random Forest,0.169,0.197,0.885
+None_SMOTE_Under_None,Random Forest,0.218,0.244,0.874
+Yeo_Johnson_SMOTE_Under_None,Random Forest,0.23,0.259,0.885
+Box_Cox_SMOTE_Under_None,Random Forest,0.216,0.244,0.883
+MinMax_SMOTE_Under_None,Random Forest,0.263,0.291,0.884
+Standardize_SMOTE_Under_None,Random Forest,0.219,0.249,0.883
+Robust_Scaler_SMOTE_Under_None,Random Forest,0.165,0.192,0.882
+None_PCA4_None,Random Forest,0.048,0.058,0.817
+Yeo_Johnson_PCA4_None,Random Forest,0.016,0.02,0.778
+Box_Cox_PCA4_None,Random Forest,0.007,0.008,0.784
+MinMax_PCA4_None,Random Forest,0.006,0.008,0.749
+Standardize_PCA4_None,Random Forest,0.016,0.02,0.775
+Robust_Scaler_PCA4_None,Random Forest,0.005,0.006,0.755
+None_PCA4_Rand_Over,Random Forest,0.091,0.105,0.807
+Yeo_Johnson_PCA4_Rand_Over,Random Forest,0.052,0.061,0.769
+Box_Cox_PCA4_Rand_Over,Random Forest,0.042,0.05,0.774
+MinMax_PCA4_Rand_Over,Random Forest,0.026,0.032,0.74
+Standardize_PCA4_Rand_Over,Random Forest,0.056,0.066,0.777
+Robust_Scaler_PCA4_Rand_Over,Random Forest,0.032,0.038,0.75
+None_PCA4_Rand_Under,Random Forest,0.76,0.344,0.84
+Yeo_Johnson_PCA4_Rand_Under,Random Forest,0.73,0.304,0.806
+Box_Cox_PCA4_Rand_Under,Random Forest,0.744,0.311,0.81
+MinMax_PCA4_Rand_Under,Random Forest,0.712,0.278,0.776
+Standardize_PCA4_Rand_Under,Random Forest,0.734,0.312,0.81
+Robust_Scaler_PCA4_Rand_Under,Random Forest,0.739,0.293,0.788
+None_PCA4_SMOTE,Random Forest,0.425,0.324,0.809
+Yeo_Johnson_PCA4_SMOTE,Random Forest,0.331,0.254,0.774
+Box_Cox_PCA4_SMOTE,Random Forest,0.324,0.249,0.774
+MinMax_PCA4_SMOTE,Random Forest,0.281,0.217,0.739
+Standardize_PCA4_SMOTE,Random Forest,0.338,0.261,0.777
+Robust_Scaler_PCA4_SMOTE,Random Forest,0.311,0.224,0.753
+None_PCA4_SMOTE_Under,Random Forest,0.43,0.33,0.81
+Yeo_Johnson_PCA4_SMOTE_Under,Random Forest,0.329,0.254,0.771
+Box_Cox_PCA4_SMOTE_Under,Random Forest,0.324,0.25,0.774
+MinMax_PCA4_SMOTE_Under,Random Forest,0.285,0.219,0.737
+Standardize_PCA4_SMOTE_Under,Random Forest,0.343,0.264,0.778
+Robust_Scaler_PCA4_SMOTE_Under,Random Forest,0.31,0.224,0.752
+None_PCA8_None,Random Forest,0.03,0.037,0.836
+Yeo_Johnson_PCA8_None,Random Forest,0.024,0.029,0.835
+Box_Cox_PCA8_None,Random Forest,0.02,0.024,0.83
+MinMax_PCA8_None,Random Forest,0.003,0.004,0.794
+Standardize_PCA8_None,Random Forest,0.041,0.051,0.834
+Robust_Scaler_PCA8_None,Random Forest,0.016,0.02,0.822
+None_PCA8_Rand_Over,Random Forest,0.079,0.094,0.834
+Yeo_Johnson_PCA8_Rand_Over,Random Forest,0.059,0.071,0.835
+Box_Cox_PCA8_Rand_Over,Random Forest,0.058,0.07,0.836
+MinMax_PCA8_Rand_Over,Random Forest,0.03,0.037,0.793
+Standardize_PCA8_Rand_Over,Random Forest,0.077,0.092,0.837
+Robust_Scaler_PCA8_Rand_Over,Random Forest,0.053,0.063,0.822
+None_PCA8_Rand_Under,Random Forest,0.775,0.352,0.851
+Yeo_Johnson_PCA8_Rand_Under,Random Forest,0.778,0.355,0.848
+Box_Cox_PCA8_Rand_Under,Random Forest,0.781,0.352,0.849
+MinMax_PCA8_Rand_Under,Random Forest,0.733,0.309,0.811
+Standardize_PCA8_Rand_Under,Random Forest,0.776,0.361,0.851
+Robust_Scaler_PCA8_Rand_Under,Random Forest,0.769,0.34,0.839
+None_PCA8_SMOTE,Random Forest,0.412,0.354,0.842
+Yeo_Johnson_PCA8_SMOTE,Random Forest,0.373,0.331,0.84
+Box_Cox_PCA8_SMOTE,Random Forest,0.382,0.339,0.837
+MinMax_PCA8_SMOTE,Random Forest,0.293,0.265,0.797
+Standardize_PCA8_SMOTE,Random Forest,0.401,0.354,0.84
+Robust_Scaler_PCA8_SMOTE,Random Forest,0.385,0.325,0.825
+None_PCA8_SMOTE_Under,Random Forest,0.414,0.357,0.842
+Yeo_Johnson_PCA8_SMOTE_Under,Random Forest,0.374,0.331,0.839
+Box_Cox_PCA8_SMOTE_Under,Random Forest,0.378,0.336,0.839
+MinMax_PCA8_SMOTE_Under,Random Forest,0.3,0.271,0.797
+Standardize_PCA8_SMOTE_Under,Random Forest,0.396,0.349,0.839
+Robust_Scaler_PCA8_SMOTE_Under,Random Forest,0.38,0.322,0.824
