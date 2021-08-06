@@ -17,6 +17,10 @@ Code and data to produce figures and replicate web-crawling and classifier train
 ### Folder Structure
 
 - Data
+  - Fig1_data.csv (65,000 accommodations from the Training data)
+  - Fig3A_data.csv (ML performance data)
+  - Fig3B_inset_data.csv (Random draw data)
+  - Fig3C_data.csv (geocoded accommodations)
 
 - Crawling (Python)
   - Collecting links to listings in 37 countries
@@ -28,4 +32,8 @@ Code and data to produce figures and replicate web-crawling and classifier train
   - Training & Application of ML algorithms
   
 - Visualization (R)
+  - Fig 1 & Fig 2 require the same data set (Fig1_data.csv)
+  - Table (Fig 2B) and confusion matrices (Fig 3B) not included
+  - Fig 3C requires shapefiles provided in Shapefiles.zip
+  - To run the code, download the data from the data folder into the same folder as the R-files
 
