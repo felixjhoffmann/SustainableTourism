@@ -3,6 +3,7 @@
 Code and data to produce figures and replicate web-crawling and classifier training for the paper 'Measuring Sustainable Tourism with Online Platform Data'. 
 (_Link to paper to be added_)
 
+Please cite as: Hoffmann et al. (2021) Measuring Sustainable Tourism with Online Platform Data. Preprint.
 
 ### Description
 
@@ -21,6 +22,7 @@ Code and data to produce figures and replicate web-crawling and classifier train
   - Fig3A_data.csv (ML performance data)
   - Fig3B_inset_data.csv (Random draw data)
   - Fig3C_data.csv (geocoded accommodations)
+  - Shapefiles.zip (shapefiles for map in Fig 3C)
 
 - Crawling (Python)
   - Collecting links to listings in 37 countries
