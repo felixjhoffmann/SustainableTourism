@@ -26,7 +26,7 @@ __Please cite as__: _Hoffmann et al. (2021) Measuring Sustainable Tourism with O
   - Shapefiles.zip (shapefiles for map in Fig 3C)
 
 - Crawling (Python)
-  - Collecting links to listings in 37 countries (TO BE ADDED)
+  - Collecting links to listings in 37 countries (Scraping_Links.ipynb)
   - Scraping content of listings (Scraping_Listings.ipynb)
 
 - Analysis (Python)
