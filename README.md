@@ -7,7 +7,7 @@ __Please cite as__: _Hoffmann et al. (2021) Measuring Sustainable Tourism with O
 
 ### Description
 
-**Last modified**: 05.08.2021
+**Last modified**: 30.08.2021
 
 **Authors**: Felix Hoffmann, Fabian Braesemann, Timm Teubner
 
