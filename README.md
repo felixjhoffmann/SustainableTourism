@@ -27,7 +27,7 @@ __Please cite as__: _Hoffmann et al. (2021) Measuring Sustainable Tourism with O
 
 - Crawling (Python)
   - Collecting links to listings in 37 countries (TO BE ADDED)
-  - Scraping content of listings (TO BE ADDED)
+  - Scraping content of listings (Scraping_Listings.ipynb)
 
 - Analysis (Python)
   - Unsupervised learning (TO BE ADDED)
