@@ -31,8 +31,8 @@ __Please cite as__: _Hoffmann et al. (2021) Measuring Sustainable Tourism with O
 
 - Analysis (Python)
   - Unsupervised learning (Unsupervised_Learning.ipynb)
-  - Grid search of applicable pre-processing (Grid_Search.ipynb)
-  - Training & Application of ML algorithms (TO BE ADDED)
+  - Grid search of applicable pre-processing & ML models (Grid_Search.ipynb)
+  - Training & Application of final pipeline (Final_Model_Application.ipynb)
   
 - Visualization (R)
   - Fig1.R (descriptive statistics)
