@@ -1,7 +1,7 @@
 ## Measuring Sustainable Tourism with Online Platform Data
 
 Code and data to produce figures and replicate web-crawling and classifier training for the paper 'Measuring Sustainable Tourism with Online Platform Data'. 
-(_Link to paper to be added_)
+(https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-022-00354-6)
 
 __Please cite as__: _Hoffmann et al. (2021) Measuring Sustainable Tourism with Online Platform Data. Preprint._
 
